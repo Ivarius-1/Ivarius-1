@@ -68,5 +68,5 @@
 <h3 align="center">Setup</h3>
 
 <p align="center">
-  <img src="assets/mySetup.png" alt="Arch Linux Desktop" width="800"/>
+  <img src="assets/Screenshot_2026-03-16-14-21-55.png" alt="Arch Linux Desktop" width="800"/>
 </p>
